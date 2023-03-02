@@ -1,0 +1,101 @@
+/* Style général */
+body {
+  font-family: 'Nunito', sans-serif;
+  font-size: 18px;
+  color: #444444;
+  line-height: 1.5;
+  background-color: #F7F7F7;
+  text-align: center;
+}
+
+/* Titres */
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  background-color: #FFFFFF;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+h4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Images */
+#main {
+  border-radius: 50%;
+  box-shadow: 0px 0px 20px #CCCCCC;
+  padding: 20px;
+  background-color: #FFFFFF;
+  margin-bottom: 30px;
+}
+
+/* Paragraphes */
+p {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Listes */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+/* Liens */
+a {
+  color: #555555;
+  font-weight: bold;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #FF8C00;
+}
+
+.Media:hover {
+  color: #FF8C00;
+}
+
+.Media {
+  font-size: 20px;
+}
+
+/* Divs */
+div {
+  border: 1px solid #CCCCCC;
+  border-radius: 5px;
+  margin: 30px 0;
+  padding: 20px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+  background-color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
